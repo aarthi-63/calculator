@@ -1,0 +1,45 @@
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: rgba(152, 149, 149, 0.993);
+    text-align: center;
+}
+.button{
+    width:70px;
+    height: 70px;
+    border-radius: 50%;
+    margin:3px;
+    margin-left:5px;
+    margin-top:5px;
+    background-color: rgb(67, 64, 64);
+    color: white;
+    border: none;
+    font-size: 34px;
+}
+.button:hover{
+    background-color: rgb(18, 16, 16);
+}
+#inputvalue{
+    width:322px;
+    height:60px;
+    background-color: rgb(96, 94, 94);
+    color: white;
+    font-size: 35px;
+    border:2px solid black;
+}
+#keys{
+    background-color: rgb(23, 22, 22);
+    width:330px;
+    height: 320px;
+    margin-left:467px;
+}
+#operator{
+    background-color: rgb(145, 99, 14);
+}
+#operator:hover{
+    background-color: rgb(209, 154, 18);
+}
+
